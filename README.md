@@ -24,5 +24,11 @@ My current side project is [Covid19 Vaccination Tracker](https://covid-vaccinati
 - ⚡ Fun fact: I ❤ 🏞⚡
 
 -------
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+-------
 [![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=default)](https://github.com/blaiseai/)
 
