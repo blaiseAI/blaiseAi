@@ -4,14 +4,12 @@
   <a href="https://twitter.com/seblaiserw">Twitter</a>
 </p>
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fblaiseai%2Fnpm-statistics%2Fmaster%2Fstats.json)
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
-- 🌱 I’m currently learning **Ruby on Rails, Flutter**
+- 🌱 I’m currently learning **Ruby on Rails, Flutter, Blockchain**
 - 👯 I’m looking to collaborate on **Building an IOT Project**
 - 💬 Ask me about **React, NextJS, and NodeJS**
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I ❤ 🏞⚡
 
 -------
 
