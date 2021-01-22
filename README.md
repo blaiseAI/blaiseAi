@@ -14,6 +14,8 @@ My current side project is [Covid19 Vaccination Tracker](https://covid-vaccinati
 
 [Email 📬](mailto:ntwariblaise@outlook.com)
 
+-----
+
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
 - 🌱 I’m currently learning **Ruby on Rails, Flutter, Blockchain**
 - 👯 I’m looking to collaborate on **Building an IOT Platform**
