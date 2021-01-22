@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Blaise, a web developer intern 💻 currently working at [AHS](https://ahs.ca) 🍲🥡
+I'm Blaise, a Web developer intern 💻 currently working at [AHS](https://ahs.ca) 🍲🥡
 
  I've been using C#, NodeJS, Java, and React to built my projects and I really enjoy the ease of use these backend languages, it's developer experience, as well the community supporting this languages.
 
