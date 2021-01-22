@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
 - 🌱 I’m currently learning **Ruby on Rails, Flutter, Blockchain**
-- 👯 I’m looking to collaborate on **Building an IOT Project**
+- 👯 I’m looking to collaborate on **Building an IOT Platform**
 - 💬 Ask me about **React, NextJS, and NodeJS**
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I ❤ 🏞⚡
