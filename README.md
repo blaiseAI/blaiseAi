@@ -12,15 +12,4 @@
 - ⚡ Fun fact: I ❤ 🏞⚡
 
 -------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Go       2 hrs 59 mins   █████████████████▓░░░░░░░   70.49 % 
-HTML     36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Python   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-```
-<!--END_SECTION:waka-->
-
--------
+[![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=synthwave)](https://github.com/blaiseai/)
