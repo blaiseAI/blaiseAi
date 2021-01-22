@@ -10,6 +10,10 @@ My current side project is [Covid19 Vaccination Tracker](https://covid-vaccinati
 
 <p><a href="https://seblaise.dev">➡️ Check out my website</a></p>
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+
 -----
 
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
