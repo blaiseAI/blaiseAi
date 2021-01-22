@@ -1,8 +1,18 @@
-<h2 align="center">👋 Hello! I'm Blaise.</h2>
-<p align="center">
-  <a href="https://seblaise.dev/">Portfolio</a> •
-  <a href="https://twitter.com/seblaiserw">Twitter</a>
-</p>
+### Hi there 👋
+
+I'm Blaise, a web developer intern 💻 currently working at [AHS](https://ahs.ca) 🍲🥡
+
+ I've been using C#, NodeJS, Java, and React to built my projects and I really enjoy the ease of use these backend languages, it's developer experience, as well the community supporting this languages.
+
+My current side project is [Covid19 Vaccination Tracker](https://covid-vaccination-tracker-server-yiqc5.ondigitalocean.app/)
+
+[LinkedIn 💼](https://linkedin.com/in/blaise94)
+
+[Twitter 🐦](https://twitter.com/seblaiserw)
+
+[Website 🌍](https://seblaise.dev/)
+
+[Email 📬](mailto:ntwariblaise@outlook.com)
 
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
 - 🌱 I’m currently learning **Ruby on Rails, Flutter, Blockchain**
