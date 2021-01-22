@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I ❤ 🏞⚡
 
 -------
-[![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=synthwave)](https://github.com/blaiseai/)
+[![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=default)](https://github.com/blaiseai/)
