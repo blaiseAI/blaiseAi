@@ -5,8 +5,6 @@
 </p>
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Ruby on Rails, Flutter**
 - 👯 I’m looking to collaborate on ...
