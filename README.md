@@ -4,8 +4,6 @@
   <a href="https://twitter.com/seblaiserw">Twitter</a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiseai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on **IOT Project with ardiuno, Firebase and Flutter**
 - 🌱 I’m currently learning **Ruby on Rails, Flutter, Blockchain**
 - 👯 I’m looking to collaborate on **Building an IOT Platform**
