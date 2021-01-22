@@ -1,4 +1,4 @@
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/seblaiserw"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/blaise94"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@ntwariblaze"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/blaiseai"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 ### Hi there 👋
 
@@ -8,15 +8,7 @@ I'm Blaise, a web developer intern 💻 currently working at [AHS](https://ahs.c
 
 My current side project is [Covid19 Vaccination Tracker](https://covid-vaccination-tracker-server-yiqc5.ondigitalocean.app/)
 
-[LinkedIn 💼](https://linkedin.com/in/blaise94)
-
-[Twitter 🐦](https://twitter.com/seblaiserw)
-
-[Website 🌍](https://seblaise.dev/)
-
-[Email 📬](mailto:ntwariblaise@outlook.com)
-
-<p><a href="https://www.mokkapps.de">➡️ Check out my website</a></p>
+<p><a href="https://seblaise.dev">➡️ Check out my website</a></p>
 
 -----
 
