@@ -12,7 +12,5 @@
 - ⚡ Fun fact: I ❤ 🏞⚡
 
 -------
-[![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=default)](https://github.com/blaiseai/)
+|[![blaiseai's github stats](https://github-readme-stats.vercel.app/api?username=blaiseai&show_icons=true&theme=default)](https://github.com/blaiseai/)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiseai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
--------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiseai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
