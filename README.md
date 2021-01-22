@@ -25,7 +25,7 @@ My current side project is [Covid19 Vaccination Tracker](https://covid-vaccinati
 
 -------
 
-# Blog posts
+### 📕Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
