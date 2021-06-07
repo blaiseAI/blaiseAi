@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Blaise, a Software developer at [AHS](https://cashcofinancial.com) 🍲🥡
+I'm Blaise, a Software developer at [Cashco](https://cashcofinancial.com) 🍲🥡
 
  I've been using C#, NodeJS, Java, and React to built my projects and I really enjoy the ease of use these backend languages, it's developer experience, as well the community supporting this languages.
 
